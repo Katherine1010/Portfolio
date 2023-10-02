@@ -12,7 +12,7 @@ var nodemailer = require('nodemailer');
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-    res.render('pages/index', { title: 'HAE YEON KANG' });
+    res.render('pages/index', { title: 'KATHERINE MARY VINCENT' });
 });
 
 /* about me */
@@ -22,7 +22,7 @@ router.get('/about', function (req, res, next) {
 
 /* portfolio */
 router.get('/portfolio', function (req, res, next) {
-    res.render('pages/portfolio', { title: 'PORTFOLIO' });
+    res.render('pages/portfolio', { title: 'PROJECTS' });
 });
 
 /* services */
