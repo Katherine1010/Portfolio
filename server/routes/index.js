@@ -22,7 +22,7 @@ router.get('/about', function (req, res, next) {
 
 /* portfolio */
 router.get('/portfolio', function (req, res, next) {
-    res.render('pages/portfolio', { title: 'POJECT' });
+    res.render('pages/portfolio', { title: 'PORTFOLIO' });
 });
 
 /* services */
