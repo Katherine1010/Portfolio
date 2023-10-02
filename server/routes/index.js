@@ -12,7 +12,7 @@ var nodemailer = require('nodemailer');
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-    res.render('pages/index', { title: 'KATHERINE MARY' });
+    res.render('pages/index', { title: 'KATHERINE MARY VINCENT' });
 });
 
 /* about me */
