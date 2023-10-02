@@ -1,8 +1,7 @@
 /*
 File name: index.js
-Author's name: Hae Yeon Kang (Lucy)
-web site name: Hae Yeon's Portfolio Website
-URL: haeyeonkang.azurewebsites.net
+ Author's name: KATHERINE MARY VINCENT
+     web site name: Katherine's Portfolio Website
 file description: This file will help visiters to navigate within the website.
 */
 
@@ -13,7 +12,7 @@ var nodemailer = require('nodemailer');
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-    res.render('pages/index', { title: 'KATHERINE MARY VINCENT' });
+    res.render('pages/index', { title: 'HAE YEON KANG' });
 });
 
 /* about me */
@@ -21,9 +20,9 @@ router.get('/about', function (req, res, next) {
     res.render('pages/about', { title: 'ABOUT ME' });
 });
 
-/* project */
+/* portfolio */
 router.get('/portfolio', function (req, res, next) {
-    res.render('pages/portfolio', { title: 'PROJECTS' });
+    res.render('pages/portfolio', { title: 'PORTFOLIO' });
 });
 
 /* services */
