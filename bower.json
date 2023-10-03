@@ -3,11 +3,11 @@
   "description": "Portfolio Website deployed in Azure",
   "main": "",
   "authors": [
-    "Lucy <HaeYeon.Kang@MyGeorgian.ca>"
+    "Katherine <kvince12@my.centennialcollege.ca>"
   ],
   "license": "MIT",
   "moduleType": [],
-  "homepage": "https://github.com/lucykang/Portfolio-Website",
+  "homepage": "https://github.com/Katherine1010/Portfolio.git",
   "ignore": [
     "**/.*",
     "node_modules",
