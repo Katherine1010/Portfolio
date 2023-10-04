@@ -1,7 +1,9 @@
 /*
 File name: index.js
  Author's name: KATHERINE MARY VINCENT
-     web site name: Katherine's Portfolio Website
+ Student number: 301278383
+web site name: Katherine's Portfolio Website
+URL: https://katherine10portfolio.onrender.com/ 
 file description: This file will help visiters to navigate within the website.
 */
 
